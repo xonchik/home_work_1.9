@@ -26,6 +26,5 @@ public class Main {
         System.out.println("moonLight.getAuthor() = " + moonLight.getAuthor());
         moonLight.setYearOfRelease(2001);
         System.out.println("moonLight.getYearOfRelease() = " + moonLight.getYearOfRelease());
-        System.out.println();
     }
 }
